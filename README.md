@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning PHP for wordpress development.
 - 💬 Ask me about [ERPNext](https://github.com/frappe/erpnext) and [Frappe](https://github.com/frappe).
 
+[![HitCount](http://hits.dwyl.com/AndyOverLord/andyoverlord.svg)](http://hits.dwyl.com/AndyOverLord/andyoverlord)  :eyes:
 <!--
 - 👯 I’m looking to collaborate on ERPNext development.
 - 🤔 I’m looking for help with ...
